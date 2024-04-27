@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./public/static/css/main.6d34c23f.css",
+    "main.js": "./public/static/js/main.9757b71e.js",
+    "static/media/aerospace.jpg": "./public/static/media/aerospace.2c478534b25f306e34d0.jpg",
+    "static/media/MiraMitra.png": "./public/static/media/MiraMitra.892cd4af2fad54ee5a1f.png",
+    "static/media/websitepic.jpg": "./public/static/media/websitepic.c36563e22c46125028ab.jpg",
+    "static/media/Mudit.jpg": "./public/static/media/Mudit.6a64655ecbff397775af.jpg",
+    "static/media/Sunidhi.jpg": "./public/static/media/Sunidhi.451b633cad837df663b7.jpg",
+    "static/media/google.png": "./public/static/media/google.cadee8cdb0c0afb1a713.png",
+    "index.html": "./public/index.html",
+    "main.6d34c23f.css.map": "./public/static/css/main.6d34c23f.css.map",
+    "main.9757b71e.js.map": "./public/static/js/main.9757b71e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d34c23f.css",
+    "static/js/main.9757b71e.js"
+  ]
+}
